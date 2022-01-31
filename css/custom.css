@@ -1,0 +1,19 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.impressum p, h1, h2, h3 {
+    color: black;
+}
+
+#clippy {
+    position: relative;
+    display: none;
+}
+
+#clippy img {
+    position: fixed;
+    cursor: pointer;
+    bottom: 1em;
+    right: 0px;
+}
